@@ -1,2 +1,2 @@
-# Sweet-Cake-
+# Sweet-Cake
 Sweet Cake Website 
